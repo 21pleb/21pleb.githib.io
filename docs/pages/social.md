@@ -1,6 +1,6 @@
 [`About`](./docs/pages/about)|[`Blog`](./docs/pages/social)|[`Contact`](./docs/pages/contact)|[`Social`](./docs/pages/social)|[`Origin`](./docs/pages/origin)
 
-21 PLEB || El Home Pages
+21 PLEB - El Home Pages
 
 ![](./docs/assets/images/svgs/21.svg)
 
