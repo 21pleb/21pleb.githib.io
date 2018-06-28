@@ -1,8 +1,8 @@
 [`About`](/docs/pages/about)|[`Blog`](/docs/pages/blog)|[`Contact`](/docs/pages/contact)|[`Social`](/docs/pages/social)|[`Origin`](/docs/pages/origin)
 
-21 PLEB - El Home Pages
+21 PLEB - El Home Pages (`Social`)
 
-![](./docs/assets/images/svgs/21.svg)
+![](/docs/assets/images/svgs/21.svg)
 
 
 #### Social Frontlinks:
