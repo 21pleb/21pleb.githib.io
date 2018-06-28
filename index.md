@@ -1,6 +1,6 @@
-`About`|`Blog`|`Contact`|`$ocial`|`Origin`
+`About`|`Blog`|`Contact`|[`$ocial`](./docs/pages/social)|`Origin`
 
-21 PLEB || El Home Pages
+21 PLEB - El Home Pages
 
 ![](/docs/assets/images/svgs/21.svg)
 
