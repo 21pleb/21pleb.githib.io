@@ -1,8 +1,8 @@
-[`About`](/about)|[`Blog`](/social)|[`Contact`](/contact)|[`Social`](/social)|[`Origin`](/origin)
+[`About`](/docs/pages/about)|[`Blog`](/docs/pages/blog)|[`Contact`](/docs/pages/contact)|[`Social`](/docs/pages/social)|[`Origin`](/docs/pages/origin)
 
-21 PLEB - El Home Pages 
+21 PLEB - El Home Pages
 
-![](/docs/assets/images/svgs/21.svg)
+![](./docs/assets/images/svgs/21.svg)
 
 
 #### Social Frontlinks:
@@ -25,7 +25,7 @@
 >`1530224081`
 
 #### Hyperlinks & Nodechains
-[`Disclaimer`](/disclaimer)|[`Directory`](/directory)|[`Privacy`](/privacy)|[`Security`](/security)|[`Site Map`](/sitemap)|[`Sponsors`](/sponsors)
+[`Disclaimer`](./docs/pages/disclaimer)|[`Directory`](./docs/pages/directory)|[`Privacy`](./docs/pages/privacy)|[`Security`](./docs/pages/security)|[`Site Map`](docs/pages/sitemap)|[`Sponsors`](./docs/pages/sponsors)
 
 
 ### [21 Pleb, D.A.O.](https://21pleb.github.io)
