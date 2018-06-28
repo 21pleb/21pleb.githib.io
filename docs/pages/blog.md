@@ -2,7 +2,7 @@
 
 21 PLEB - El Home Pages
 
-![](./docs/assets/images/svgs/21.svg)
+![](/docs/assets/images/svgs/21.svg)
 
 
 #### Social Frontlinks:
