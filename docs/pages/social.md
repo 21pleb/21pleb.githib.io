@@ -1,4 +1,4 @@
-[`About`](.pages/about)|[`Blog`](/pages/social)|[`Contact`](/pages/contact)|[`Social`](/pages/social)|[`Origin`](/pages/origin)
+[`About`](/pages/about)|[`Blog`](/pages/social)|[`Contact`](/pages/contact)|[`Social`](/pages/social)|[`Origin`](/pages/origin)
 
 21 PLEB - El Home Pages
 
