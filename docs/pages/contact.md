@@ -27,7 +27,7 @@
 
 
 #### Hyperlinks & Nodechains
-[`Disclaimer`](/docs/pages/disclaimer)|[`Directory`](/docs/pages/directory)|[`Privacy`](/docs/pages/privacy)|[`Security`](/docs/pages/security)|[`Site Map`](docs/pages/sitemap)|[`Sponsors`](/docs/pages/sponsors)
+[`Disclaimer`](/docs/pages/disclaimer)|[`Directory`](/docs/pages/directory)|[`Privacy`](/docs/pages/privacy)|[`Security`](/docs/pages/security)|[`Site Map`](/docs/pages/sitemap)|[`Sponsors`](/docs/pages/sponsors)
 
 
 ### [21 Pleb, D.A.O.](https://21pleb.github.io)
